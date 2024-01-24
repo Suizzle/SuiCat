@@ -33,7 +33,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By Suizzle and Ivmidable
+            By Ivmidable and Suizzle
           </a>
         </div>
       </div>
