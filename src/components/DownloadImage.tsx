@@ -3,7 +3,7 @@ import { useCallback, useEffect, useState } from 'react';
 import {
     placeHolderImg,
     placeHolderVid,
-} from "./../constants";
+} from "../constants";
 
 import {
     getFullnodeUrl,
