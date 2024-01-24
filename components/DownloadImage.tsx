@@ -11,7 +11,7 @@ import {
     SuiClient,
   } from "@mysten/sui.js/client";
 
-const client = new SuiClient({ url: getFullnodeUrl("devnet") });
+const client = new SuiClient({ url: getFullnodeUrl("testnet") });
 
 interface noop {
   type: "pure";
